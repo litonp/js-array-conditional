@@ -4,13 +4,12 @@ var sanglassPrice = 120;
 // string type variable
 var specialOneName = 'Ariana Grande';
 
-g//boolean type variable 
+//boolean type variable 
 var isSingle = true;
 
 var price1 = 10;
 var price2 = 20;
-var price3 = 20;
-var totalPrice = 'price1 + price2 + price3';
+var totalPrice = price1 + price2;
 console.log(totalPrice);
 
 // two type of number:
